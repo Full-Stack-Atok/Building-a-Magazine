@@ -1,6 +1,32 @@
 {
+    "files.associations": {
+      "*.html": "html",
+      "*.css": "css",
+      "*.js": "javascript"
+    },
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "editor.rulers": [80, 120],
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "html": "html"
+    },
+    "liveServer.settings.port": 5500,
+    "files.autoSave": "onWindowChange",
+    "files.autoSaveDelay": 1000,
+    "prettier.requireConfig": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
     "cSpell.words": [
-        "fontawesome",
-        "freecodecamp"
+      "freecodecamp",
+      "frontalface",
+      "haarcascade",
+      "haarcascades",
+      "imshow",
+      "imwrite",
+      "jsonify",
+      "magne",
+      "venv"
     ]
-}
+  }
